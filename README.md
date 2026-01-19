@@ -3,7 +3,7 @@
 ![Logo](redishort.png)
 
 > ⚠️ **Project Status: Archived**
-> This project was fully functional from June-August 2024 but is currently non-operational due to Reddit API policy changes. The codebase is preserved for portfolio demonstration and potential future adaptation.
+> This project was fully functional from June-August 2025 but is currently non-operational due to Reddit API policy changes. The codebase is preserved for portfolio demonstration and potential future adaptation.
 
 ---
 
@@ -67,7 +67,7 @@ graph TD
 
 ## 🔧 What Would Need to Change (For Future Resumption)
 
-The project stopped working due to **Reddit API restrictions** implemented in 2023. To resume:
+The project stopped working due to **Reddit API restrictions**. To resume:
 
 | Component            | Current State           | Required Change                                                                                   |
 | -------------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
@@ -169,7 +169,7 @@ This project was created for **educational purposes** and personal task automati
 
 <div align="center">
 
-**Built by Izan Cano** • Summer 2024
+**Built by Izan Cano** • Summer 2025
 
 [🔗 View Live Channel](https://www.youtube.com/@reditoktv)
 
