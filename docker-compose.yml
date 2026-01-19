@@ -1,0 +1,12 @@
+services:
+  redishort:
+    build: .
+    container_name: redishort
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    ports:
+      - "8080:8080"
+    command: ["python", "main.py"]
